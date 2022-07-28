@@ -1,6 +1,5 @@
 import java.util.Arrays;
-
-class LongestConsecutiveSequence {
+public class LongestConsecutiveSequence {
     public int longestConsecutive(int[] nums) {
         int noTotalConsecutive = 0;
         Arrays.sort(nums);
@@ -11,9 +10,6 @@ class LongestConsecutiveSequence {
         int length = nums.length;
         return 0;
     }
-}
-
-public class Main {
     public static void main(String[] args) {
 
         LongestConsecutiveSequence solutionObj = new LongestConsecutiveSequence();
