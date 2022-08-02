@@ -16,12 +16,13 @@ If you have precious little time, you can visit my [LeetCode profile](https://le
 
 ### LeetCode Algorithm
 
-| #   | Title | Solution | Language | Runtime | Date Submitted | Basic idea (One line) |
-|-----| ----- | -------- | -------- |---------|----------------| --------------------- |
-| 9   |[Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [Java](https://github.com/Shawon-Lodh/LeetCode_solves/blob/master/src/PalindromeNumber.java) |Medium| 13 ms | 2 august, 2022 | ... |
-| 12  |[Integer to Roman](https://leetcode.com/problems/integer-to-roman/) | [Java](https://github.com/Shawon-Lodh/LeetCode_solves/blob/master/src/IntegerToRoman.java) |Medium| 143 ms  | 1 august, 2022 | ... |
+| #  | Title | Solution | Language | Runtime | Date Submitted | Basic idea (One line) |
+|----| ----- | -------- | -------- |---------|----------------| --------------------- |
+| 378 |[Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/) | [Java](https://github.com/Shawon-Lodh/LeetCode_solves/blob/master/src/KthSmallestElementInASortedMatrix.java) |Medium| 53 ms | 2 august, 2022 | ... |
+| 9  |[Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [Java](https://github.com/Shawon-Lodh/LeetCode_solves/blob/master/src/PalindromeNumber.java) |Medium| 13 ms | 2 august, 2022 | ... |
+| 12 |[Integer to Roman](https://leetcode.com/problems/integer-to-roman/) | [Java](https://github.com/Shawon-Lodh/LeetCode_solves/blob/master/src/IntegerToRoman.java) |Medium| 143 ms  | 1 august, 2022 | ... |
 | 374 |[Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/) | [Java](https://github.com/Shawon-Lodh/LeetCode_solves/blob/master/src/GuessNumberHigherOrLower.java) |Easy| 0 ms    | 27 july, 2022  | ... |
 | 704 |[Binary Search](https://leetcode.com/problems/binary-search/) | [Java](https://github.com/Shawon-Lodh/LeetCode_solves/blob/master/src/BinarySearch.java) |Easy| 0 ms    | 27 july, 2022  | ... |
-| 7   |[Reverse Integer](https://leetcode.com/problems/reverse-integer/) | [Java](https://github.com/Shawon-Lodh/LeetCode_solves/blob/master/src/ReverseInteger.java) |Medium| 2 ms    | 26 july, 2022  | ... |
-| 15  |[3Sum](https://leetcode.com/problems/3sum/) | [Java](https://github.com/Shawon-Lodh/LeetCode_solves/blob/master/src/ThreeSum.java) |Medium| 982 ms  | 13 july, 2022  | ... |
-| 1   |[3Sum](https://leetcode.com/problems/two-sum/) | [Java](https://github.com/Shawon-Lodh/LeetCode_solves/blob/master/src/ThreeSum.java) |Easy| 69 ms   | 12 july, 2022  | ... |
+| 7  |[Reverse Integer](https://leetcode.com/problems/reverse-integer/) | [Java](https://github.com/Shawon-Lodh/LeetCode_solves/blob/master/src/ReverseInteger.java) |Medium| 2 ms    | 26 july, 2022  | ... |
+| 15 |[3Sum](https://leetcode.com/problems/3sum/) | [Java](https://github.com/Shawon-Lodh/LeetCode_solves/blob/master/src/ThreeSum.java) |Medium| 982 ms  | 13 july, 2022  | ... |
+| 1  |[3Sum](https://leetcode.com/problems/two-sum/) | [Java](https://github.com/Shawon-Lodh/LeetCode_solves/blob/master/src/ThreeSum.java) |Easy| 69 ms   | 12 july, 2022  | ... |
