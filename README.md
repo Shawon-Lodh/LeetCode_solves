@@ -18,6 +18,7 @@ If you have precious little time, you can visit my [LeetCode profile](https://le
 
 | #   | Title | Solution | Language | Runtime | Date Submitted | Basic idea (One line) |
 |-----| ----- | -------- | -------- |---------|----------------| --------------------- |
+| 9   |[Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [Java](https://github.com/Shawon-Lodh/LeetCode_solves/blob/master/src/PalindromeNumber.java) |Medium| 13 ms | 2 august, 2022 | ... |
 | 12  |[Integer to Roman](https://leetcode.com/problems/integer-to-roman/) | [Java](https://github.com/Shawon-Lodh/LeetCode_solves/blob/master/src/IntegerToRoman.java) |Medium| 143 ms  | 1 august, 2022 | ... |
 | 374 |[Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/) | [Java](https://github.com/Shawon-Lodh/LeetCode_solves/blob/master/src/GuessNumberHigherOrLower.java) |Easy| 0 ms    | 27 july, 2022  | ... |
 | 704 |[Binary Search](https://leetcode.com/problems/binary-search/) | [Java](https://github.com/Shawon-Lodh/LeetCode_solves/blob/master/src/BinarySearch.java) |Easy| 0 ms    | 27 july, 2022  | ... |
