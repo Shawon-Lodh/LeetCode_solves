@@ -18,6 +18,7 @@ If you have precious little time, you can visit my [LeetCode profile](https://le
 
 | #  | Title | Solution | Language | Runtime | Date Submitted | Basic idea (One line) |
 |----| ----- | -------- |----------|---------|----------------| --------------------- |
+| 344 |[Reverse String](https://leetcode.com/problems/reverse-string/) | [Java](https://github.com/Shawon-Lodh/LeetCode_solves/blob/master/src/ReverseString.java) | Easy | 1 ms | 4 august, 2022 | ... |
 | 378 |[Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/) | [Java](https://github.com/Shawon-Lodh/LeetCode_solves/blob/master/src/KthSmallestElementInASortedMatrix.java) | Medium   | 53 ms | 2 august, 2022 | ... |
 | 9  |[Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [Java](https://github.com/Shawon-Lodh/LeetCode_solves/blob/master/src/PalindromeNumber.java) | Easy | 13 ms | 2 august, 2022 | ... |
 | 12 |[Integer to Roman](https://leetcode.com/problems/integer-to-roman/) | [Java](https://github.com/Shawon-Lodh/LeetCode_solves/blob/master/src/IntegerToRoman.java) | Medium   | 143 ms  | 1 august, 2022 | ... |
