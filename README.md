@@ -5,7 +5,7 @@ _If you like this project, please leave me a star._ &#9733;<br>
 If you're interested, here are some details about my background and preparation:
 - 1st time prepping for coding and system design interviews.
 - ~1 months of preparation
-- ~12 LeetCode problems (Easy: 7, Medium: 4, Hard: 1) (see screenshot at the bottom of this post)
+- ~13 LeetCode problems (Easy: 7, Medium: 5, Hard: 1) (see screenshot at the bottom of this post)
 
 If you have precious little time, you can visit my [LeetCode profile](https://leetcode.com/shawonlodh/).
 <!--- - NeetCode 150 (excluding bit manipulation and some dynamic programming) https://neetcode.io/ 
@@ -18,6 +18,7 @@ If you have precious little time, you can visit my [LeetCode profile](https://le
 
 | #    | Title | Solution | Language | Runtime | Date Submitted | Basic idea (One line) |
 |------| ----- | -------- |----------|---------|----------------| --------------------- |
+| 300  |[Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) | [Java](https://github.com/Shawon-Lodh/LeetCode_solves/blob/master/src/LongestIncreasingSubsequence.java) | Medium     | 7 ms    | 8 august, 2022 | ... |
 | 217  |[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [Java](https://github.com/Shawon-Lodh/LeetCode_solves/blob/master/src/ContainsDuplicate.java) | Easy     | 30 ms    | 7 august, 2022 | ... |
 | 1220 |[Count Vowels Permutation](https://leetcode.com/problems/count-vowels-permutation/) | [Java](https://github.com/Shawon-Lodh/LeetCode_solves/blob/master/src/CountVowelsPermutation.java) | Hard     | 13 ms    | 7 august, 2022 | ... |
 | 20   |[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [Java](https://github.com/Shawon-Lodh/LeetCode_solves/blob/master/src/ValidParentheses.java) | Easy     | 2 ms    | 4 august, 2022 | ... |
