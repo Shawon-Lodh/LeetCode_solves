@@ -5,7 +5,7 @@ _If you like this project, please leave me a star._ &#9733;<br>
 If you're interested, here are some details about my background and preparation:
 - 1st time prepping for coding and system design interviews.
 - ~1 months of preparation
-- ~15 LeetCode problems (Easy: 9, Medium: 5, Hard: 1) (see screenshot at the bottom of this post)
+- ~16 LeetCode problems (Easy: 9, Medium: 5, Hard: 2) (see screenshot at the bottom of this post)
 
 If you have precious little time, you can visit my [LeetCode profile](https://leetcode.com/shawonlodh/).
 <!--- - NeetCode 150 (excluding bit manipulation and some dynamic programming) https://neetcode.io/ 
@@ -18,6 +18,7 @@ If you have precious little time, you can visit my [LeetCode profile](https://le
 
 | #    | Title | Solution | Language | Runtime | Date Submitted  | Basic idea (One line) |
 |------| ----- | -------- |----------|---------|-----------------| --------------------- |
+| 4  |[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | [Java](https://github.com/Shawon-Lodh/LeetCode_solves/blob/master/src/MedianOFTwoSortedArrays.java) | Hard     |  6 ms    | 26 august, 2022 | ... |
 | 383  |[Ransom Note](https://leetcode.com/problems/ransom-note/) | [Java](https://github.com/Shawon-Lodh/LeetCode_solves/blob/master/src/RansomNote.java) | Easy     |  6 ms    | 25 august, 2022 | ... |
 | 387  |[First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) | [Java](https://github.com/Shawon-Lodh/LeetCode_solves/blob/master/src/FirstUniqueCharacterInString.java) | Easy     | 148 ms    | 16 august, 2022 | ... |
 | 300  |[Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) | [Java](https://github.com/Shawon-Lodh/LeetCode_solves/blob/master/src/LongestIncreasingSubsequence.java) | Medium   | 7 ms    | 8 august, 2022  | ... |
