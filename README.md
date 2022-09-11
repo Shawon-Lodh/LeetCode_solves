@@ -5,7 +5,7 @@ _If you like this project, please leave me a star._ &#9733;<br>
 If you're interested, here are some details about my background and preparation:
 - 1st time prepping for coding and system design interviews.
 - ~1 months of preparation
-- ~27 LeetCode problems (Easy: 16, Medium: 9, Hard: 2) (see screenshot at the bottom of this post)
+- ~28 LeetCode problems (Easy: 16, Medium: 10, Hard: 2) (see screenshot at the bottom of this post)
 
 If you have precious little time, you can visit my [LeetCode profile](https://leetcode.com/shawonlodh/).
 
@@ -13,9 +13,10 @@ If you have precious little time, you can visit my [LeetCode profile](https://le
 
 | #    | Title | Solution | Language | Runtime | Date Submitted     | Basic idea (One line) |
 |------| ----- | -------- |----------|---------|--------------------| --------------------- |
-| 2022  |[Convert 1D Array Into 2D Array](https://leetcode.com/problems/convert-1d-array-into-2d-array/) | [Java](https://github.com/Shawon-Lodh/LeetCode_solves/blob/master/src/Convert1DArrayInto2DArray.java) | Easy     | 7 ms    | 11 september, 2022 | ... |
+| 36   |[Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | [Java](https://github.com/Shawon-Lodh/LeetCode_solves/blob/master/src/ValidSudoku.java) | Medium     | 10 ms   | 11 september, 2022 | ... |
+| 2022 |[Convert 1D Array Into 2D Array](https://leetcode.com/problems/convert-1d-array-into-2d-array/) | [Java](https://github.com/Shawon-Lodh/LeetCode_solves/blob/master/src/Convert1DArrayInto2DArray.java) | Easy     | 7 ms    | 11 september, 2022 | ... |
 | 566  |[Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/) | [Java](https://github.com/Shawon-Lodh/LeetCode_solves/blob/master/src/ReshapeTheMatrix.java) | Easy     | 1 ms    | 11 september, 2022 | ... |
-| 2404  |[Most Frequent Even Element](https://leetcode.com/problems/most-frequent-even-element/) | [Java](https://github.com/Shawon-Lodh/LeetCode_solves/blob/master/src/MostFrequentEvenElement.java) | Easy     | 55 ms   | 11 september, 2022 | ... |
+| 2404 |[Most Frequent Even Element](https://leetcode.com/problems/most-frequent-even-element/) | [Java](https://github.com/Shawon-Lodh/LeetCode_solves/blob/master/src/MostFrequentEvenElement.java) | Easy     | 55 ms   | 11 september, 2022 | ... |
 | 2395 |[Find Subarrays With Equal Sum](https://leetcode.com/problems/find-subarrays-with-equal-sum/) | [Java](https://github.com/Shawon-Lodh/LeetCode_solves/blob/master/src/FindSubarraysWithEqualSum.java) | Easy     | 11 ms   | 8 september, 2022  | ... |
 | 482  |[License Key Formatting](https://leetcode.com/problems/license-key-formatting/) | [Java](https://github.com/Shawon-Lodh/LeetCode_solves/blob/master/src/LicenseKeyFormatting.java) | Easy     | 42 ms   | 8 september, 2022  | ... |
 | 350  |[Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/) | [Java](https://github.com/Shawon-Lodh/LeetCode_solves/blob/master/src/IntersectionOfTwoArraysII.java) | Easy     | 23 ms   | 7 september, 2022  | ... |
