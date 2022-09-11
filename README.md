@@ -13,6 +13,7 @@ If you have precious little time, you can visit my [LeetCode profile](https://le
 
 | #    | Title | Solution | Language | Runtime | Date Submitted     | Basic idea (One line) |
 |------| ----- | -------- |----------|---------|--------------------| --------------------- |
+| 2022  |[Convert 1D Array Into 2D Array](https://leetcode.com/problems/convert-1d-array-into-2d-array/) | [Java](https://github.com/Shawon-Lodh/LeetCode_solves/blob/master/src/Convert1DArrayInto2DArray.java) | Easy     | 7 ms    | 11 september, 2022 | ... |
 | 566  |[Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/) | [Java](https://github.com/Shawon-Lodh/LeetCode_solves/blob/master/src/ReshapeTheMatrix.java) | Easy     | 1 ms    | 11 september, 2022 | ... |
 | 2404  |[Most Frequent Even Element](https://leetcode.com/problems/most-frequent-even-element/) | [Java](https://github.com/Shawon-Lodh/LeetCode_solves/blob/master/src/MostFrequentEvenElement.java) | Easy     | 55 ms   | 11 september, 2022 | ... |
 | 2395 |[Find Subarrays With Equal Sum](https://leetcode.com/problems/find-subarrays-with-equal-sum/) | [Java](https://github.com/Shawon-Lodh/LeetCode_solves/blob/master/src/FindSubarraysWithEqualSum.java) | Easy     | 11 ms   | 8 september, 2022  | ... |
