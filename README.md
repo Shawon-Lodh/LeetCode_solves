@@ -9,7 +9,7 @@ If you're interested, here are some details about my background and preparation:
 If you have precious little time, you can visit my [LeetCode profile](https://leetcode.com/shawonlodh/).
 
 <h1 align="center" >All Problems</h1>
-<h4 align="center"> Quantity : 31 </h4>
+<h4 align="center"> Quantity : 32 </h4>
 
 ---
 
@@ -58,10 +58,11 @@ If you have precious little time, you can visit my [LeetCode profile](https://le
 ---
 
 <h3 align="center" style="color:red;"> Hard </h3>
-<h4 align="center"> Total Solved : 3 </h4>
+<h4 align="center"> Total Solved : 4 </h4>
 
 | #    | Title                                                                                     | Tags                                                                  | Language                                                                                                | Runtime | Date Submitted     |
 |------|-------------------------------------------------------------------------------------------|-----------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------|---------|--------------------|
+| 41   | [First Missing Positive](https://leetcode.com/problems/first-missing-positive/)           | `Array` `Hash Table`                                                  | [Java](https://github.com/Shawon-Lodh/LeetCode_solves/blob/master/src/FirstMissingPositive_41.java)     | 1 ms    | 14 september, 2022 |
 | 23   | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)               | `Linked List` `Divide and Conquer` `Heap(Priority Queue)` `Mege Sort` | [Java](https://github.com/Shawon-Lodh/LeetCode_solves/blob/master/src/MergeKSortedLists_23.java)        | 11 ms   | 12 september, 2022 |
 | 4    | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | `Array` `Binary Search` `Divide and Conquer`                          | [Java](https://github.com/Shawon-Lodh/LeetCode_solves/blob/master/src/MedianOFTwoSortedArrays_4.java)   | 6 ms    | 26 august, 2022    |
 | 1220 | [Count Vowels Permutation](https://leetcode.com/problems/count-vowels-permutation/)       | `Dynamic Programming`                                                 | [Java](https://github.com/Shawon-Lodh/LeetCode_solves/blob/master/src/CountVowelsPermutation_1220.java) | 13 ms   | 7 august, 2022     |
