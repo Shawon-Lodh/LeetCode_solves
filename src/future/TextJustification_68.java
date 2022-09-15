@@ -13,10 +13,10 @@ public class TextJustification_68 {
           int charLen = words[i].toCharArray().length;
             System.out.println("Character length : " + charLen);
             List<String> temp = new ArrayList<>();
+            System.out.println("Temp value is  : "+temp);
           if(charLen <= (maxWidthClone  - temp.size()-1)){
               temp.add(words[i]);
               System.out.println("Added value is : "+words[i]);
-              System.out.println("Temp value is  : "+temp);
               i++;
               maxWidthClone = maxWidthClone - charLen;
           }else{
