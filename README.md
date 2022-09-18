@@ -9,7 +9,7 @@ If you're interested, here are some details about my background and preparation:
 If you have precious little time, you can visit my [LeetCode profile](https://leetcode.com/shawonlodh/).
 
 <h1 align="center" >All Problems</h1>
-<h4 align="center"> Quantity : 33 </h4>
+<h4 align="center"> Quantity : 34 </h4>
 
 ---
 
@@ -58,10 +58,11 @@ If you have precious little time, you can visit my [LeetCode profile](https://le
 ---
 
 <h3 align="center" style="color:red;"> Hard </h3>
-<h4 align="center"> Total Solved : 5 </h4>
+<h4 align="center"> Total Solved : 6 </h4>
 
 | #    | Title                                                                                                           | Tags                                                                  | Language                                                                                                      | Runtime | Date Submitted     |
 |------|-----------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------|---------|--------------------|
+| 164  | [Maximum Gap](https://leetcode.com/problems/maximum-gap/)                                                       | `Array` `Sorting` `Bucket Sort` `Radix Sort`                          | [Java](https://github.com/Shawon-Lodh/LeetCode_solves/blob/master/src/MaximumGap.java)                        | 45 ms   | 18 september, 2022 |
 | 2366 | [Minimum Replacements to Sort the Array](https://leetcode.com/problems/minimum-replacements-to-sort-the-array/) | `Array` `Math` `Greedy`                                               | [Java](https://github.com/Shawon-Lodh/LeetCode_solves/blob/master/src/MinimumReplacementsToSortTheArray.java) | 29 ms   | 18 september, 2022 |
 | 41   | [First Missing Positive](https://leetcode.com/problems/first-missing-positive/)                                 | `Array` `Hash Table`                                                  | [Java](https://github.com/Shawon-Lodh/LeetCode_solves/blob/master/src/FirstMissingPositive_41.java)           | 1 ms    | 14 september, 2022 |
 | 23   | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)                                     | `Linked List` `Divide and Conquer` `Heap(Priority Queue)` `Mege Sort` | [Java](https://github.com/Shawon-Lodh/LeetCode_solves/blob/master/src/MergeKSortedLists_23.java)              | 11 ms   | 12 september, 2022 |
