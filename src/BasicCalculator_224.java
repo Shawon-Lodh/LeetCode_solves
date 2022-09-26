@@ -1,6 +1,3 @@
-package future;
-
-import java.util.ArrayList;
 import java.util.Stack;
 
 public class BasicCalculator_224 {
@@ -9,13 +6,12 @@ public class BasicCalculator_224 {
         Stack<String> st = new Stack<>();
         s = s.replaceAll(" ", "");
         System.out.println(s);
-        char finalSign = '+';
+
         char ch;
         String temp = "";
 
         int number = 0;
         int result = 0;
-        int prevResult = 0;
 
         for(int i = 0; i<s.length(); i++){
             ch = s.charAt(i);
@@ -25,34 +21,34 @@ public class BasicCalculator_224 {
                     st.push(temp);
                     temp = "";
                 }
-               while(!st.peek().equals("(")){
-                 if(st.peek().equals("+") || st.peek().equals("(")){
-                     st.pop();
-                 }else if(st.peek().equals("-")){
-                     number = (-1) * number;
-                     st.pop();
-                 }else{
-                   result = result + number;
-                   number = Integer.parseInt(st.peek());
-                   st.pop();
-                   System.out.println("Result is : "+result);
-                 }
-               }
-               result = result + number;
-               number = 0;
-               st.pop();
-               System.out.println("Result after one operation is : "+result);
-               if(!st.empty()){
-                   if(st.peek().equals("+")){
-                     st.pop();
-                   }else if(st.peek().equals("-")){
-                     result = (-1) * result;
-                     st.pop();
-                   }
-               }
-               System.out.println("Result after one operation is : "+result);
-               prevResult = prevResult + result;
-               result = 0;
+                while(!st.peek().equals("(")){
+                    if(st.peek().equals("+") || st.peek().equals("(")){
+                        st.pop();
+                    }else if(st.peek().equals("-")){
+                        number = (-1) * number;
+                        st.pop();
+                    }else{
+                        result = result + number;
+                        number = Integer.parseInt(st.peek());
+                        st.pop();
+                        System.out.println("Result is : "+result);
+                    }
+                }
+                result = result + number;
+                number = 0;
+                st.pop();
+                System.out.println("Result after one operation is : "+result);
+                if(!st.empty()){
+                    if(st.peek().equals("+")){
+                        st.pop();
+                    }else if(st.peek().equals("-")){
+                        result = (-1) * result;
+                        st.pop();
+                    }
+                }
+                System.out.println("Pushed Char is  : "+ result);
+                st.push(String.valueOf(result));
+                result = 0;
             }else{
                 if(ch == '('){
                     System.out.println("Pushed Char is  : "+s.charAt(i));
@@ -63,14 +59,8 @@ public class BasicCalculator_224 {
                         st.push(temp);
                         temp = "";
                     }
-                    if(i == 0 && s.charAt(i+1) == '('){
-                        if(ch == '-'){
-                          finalSign = ch;
-                        }
-                    }else{
-                        System.out.println("Pushed Char is  : "+s.charAt(i));
-                        st.push(String.valueOf(s.charAt(i)));
-                    }
+                    System.out.println("Pushed Char is  : "+s.charAt(i));
+                    st.push(String.valueOf(s.charAt(i)));
                 }else{
                     temp = temp.concat(String.valueOf(ch));
                 }
@@ -101,13 +91,14 @@ public class BasicCalculator_224 {
             result = result + number;
             number = 0;
             System.out.println("Result after one operation is : "+result);
-            prevResult = prevResult + result;
+
+            System.out.println("Pushed Char is  : "+String.valueOf(result));
+            st.push(String.valueOf(result));
             result = 0;
         }
-
-        return finalSign == '-' ? (-1)*prevResult : prevResult;
+        return Integer.parseInt(st.peek());
     }
-    
+
     public static void main(String[] args) {
 
         BasicCalculator_224 solutionObj = new BasicCalculator_224();
