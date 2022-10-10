@@ -9,15 +9,16 @@ If you're interested, here are some details about my background and preparation:
 If you have precious little time, you can visit my [LeetCode profile](https://leetcode.com/shawonlodh/).
 
 <h1 align="center" >All Problems</h1>
-<h4 align="center"> Quantity : 38 </h4>
+<h4 align="center"> Quantity : 39 </h4>
 
 ---
 
 <h3 align="center" style="color:green;"> Easy </h3>
-<h4 align="center"> Total Solved : 21 </h4>
+<h4 align="center"> Total Solved : 22 </h4>
 
 | #    | Title                                                                                                             | Tags                                                          | Language                                                                                                           | Runtime | Date Submitted     |
 |------|-------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------|---------|--------------------|
+| 2427 | [Number of Common Factors](https://leetcode.com/problems/number-of-common-factors/)                               | `Math` `Enumeraion` `Number Theory`                           | [Java](https://github.com/Shawon-Lodh/LeetCode_solves/blob/master/src/NumberOfCommonFactors_2427.java)             | 5 ms    | 10 october, 2022   |
 | 485  | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/)                                       | `Array`                                                       | [Java](https://github.com/Shawon-Lodh/LeetCode_solves/blob/master/src/MaxConsecutiveOnes_485.java)                 | 3 ms    | 20 september, 2022 |
 | 1295 | [Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/) | `Array`                                                       | [Java](https://github.com/Shawon-Lodh/LeetCode_solves/blob/master/src/FindNumbersWithEvenNumberOfDigits_1295.java) | 5 ms    | 20 september, 2022 |
 | 977  | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)                             | `Array` `Two pointers` `Sorting`                              | [Java](https://github.com/Shawon-Lodh/LeetCode_solves/blob/master/src/SquaresOfASortedArray_977.java)              | 8 ms    | 20 september, 2022 |
