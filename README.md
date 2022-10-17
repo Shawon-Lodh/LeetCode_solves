@@ -9,7 +9,7 @@ If you're interested, here are some details about my background and preparation:
 If you have precious little time, you can visit my [LeetCode profile](https://leetcode.com/shawonlodh/).
 
 <h1 align="center" >All Problems</h1>
-<h4 align="center"> Quantity : 40 </h4>
+<h4 align="center"> Quantity : 41 </h4>
 
 ---
 
@@ -44,10 +44,11 @@ If you have precious little time, you can visit my [LeetCode profile](https://le
 ---
 
 <h3 align="center" style="color:orange;"> Medium </h3>
-<h4 align="center"> Total Solved : 10 </h4>
+<h4 align="center"> Total Solved : 11 </h4>
 
 | #    | Title                                                                                                                           | Tags                                                              | Language                                                                                                                 | Runtime | Date Submitted     |
 |------|---------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------|---------|--------------------|
+| 318  | [Maximum Product of Word Lengths](https://leetcode.com/problems/maximum-product-of-word-lengths/)                               | `Array` `String` `Bit Manipulation`                               | [Java](https://github.com/Shawon-Lodh/LeetCode_solves/blob/master/src/MaximumProductOfWordLengths_318.java)              | 322 ms  | 17 october, 2022   |
 | 36   | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)                                                                     | `Array` `Hash Table` `Matrix`                                     | [Java](https://github.com/Shawon-Lodh/LeetCode_solves/blob/master/src/ValidSudoku_36.java)                               | 10 ms   | 11 september, 2022 |
 | 53   | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)                                                             | `Array` `Divide and Conquer` `Dynamic Programming`                | [Java](https://github.com/Shawon-Lodh/LeetCode_solves/blob/master/src/MaximumSubarray_53.java)                           | 2 ms    | 4 september, 2022  |
 | 2396 | [Strictly Palindromic Number](https://leetcode.com/problems/strictly-palindromic-number/)                                       | `Math` `Two Pointers` `Brainteaser`                               | [Java](https://github.com/Shawon-Lodh/LeetCode_solves/blob/master/src/StrictlyPalindromicNumber_2396.java)               | 17 ms   | 3 september, 2022  |
