@@ -4,15 +4,15 @@
         I use number instead of letters to make it clear.
 
         If K == 1, we can only rotate the whole string.
-        There are S.length different states and
-        we return the lexicographically smallest string.
+        There are S.length different states, and
+        we return lexicographically the smallest string.
 
         If K > 1, it means we can:
 
         rotate the whole string,
         rotate the whole string except the first letter.
         012345 -> 023451 -> 034512 -> 045123 -> 051234
-        We can rotate i+1th big letter to the start (method 1),
+        We can rotate (i+1)th big letter to the start (method 1),
         then rotate ith big letter to the end (method 2).
         2XXX01 -> XXX012
 
