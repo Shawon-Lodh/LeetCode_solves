@@ -9,7 +9,7 @@ If you're interested, here are some details about my background and preparation:
 If you have precious little time, you can visit my [LeetCode profile](https://leetcode.com/shawonlodh/).
 
 <h1 align="center" >All Problems</h1>
-<h4 align="center"> Quantity : 41 </h4>
+<h4 align="center"> Quantity : 42 </h4>
 
 ---
 
@@ -63,10 +63,11 @@ If you have precious little time, you can visit my [LeetCode profile](https://le
 ---
 
 <h3 align="center" style="color:red;"> Hard </h3>
-<h4 align="center"> Total Solved : 8 </h4>
+<h4 align="center"> Total Solved : 9 </h4>
 
 | #    | Title                                                                                                           | Tags                                                                  | Language                                                                                                           | Runtime | Date Submitted     |
 |------|-----------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------|---------|--------------------|
+| 899  | [Orderly Queue](https://leetcode.com/problems/orderly-queue/)                                                   | `String` `Math` `Sorting`                                             | [Java](https://github.com/Shawon-Lodh/LeetCode_solves/blob/master/src/OrderlyQueue_899.java)                       | 6 ms    | 18 October, 2022   |
 | 1835 | [Find XOR Sum of All Pairs Bitwise AND](https://leetcode.com/problems/find-xor-sum-of-all-pairs-bitwise-and/)   | `Array` `Math` `Bit Manipulation`                                     | [Java](https://github.com/Shawon-Lodh/LeetCode_solves/blob/master/src/FindNumbersWithEvenNumberOfDigits_1295.java) | 3 ms    | 16 October, 2022   |
 | 224  | [Basic Calculator](https://leetcode.com/problems/basic-calculator/)                                             | `Math` `Stack` `String` `Recursion`                                   | [Java](https://github.com/Shawon-Lodh/LeetCode_solves/blob/master/src/BasicCalculator_224.java)                    | 124 ms  | 26 september, 2022 |
 | 164  | [Maximum Gap](https://leetcode.com/problems/maximum-gap/)                                                       | `Array` `Sorting` `Bucket Sort` `Radix Sort`                          | [Java](https://github.com/Shawon-Lodh/LeetCode_solves/blob/master/src/MaximumGap.java)                             | 45 ms   | 18 september, 2022 |
